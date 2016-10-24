@@ -1,0 +1,9 @@
+Builds on Linux, should build on Windows/OSX. The code is messy to read because
+I was optimising it for ease-of-compilation more than anything else
+
+If you want to learn more about the subject:
+
+http://forum.devmaster.net/t/raytracing-theory-implementation-part-1-introduction/2836
+http://www.pbrt.org/ (https://www.amazon.co.uk/Physically-Based-Rendering-Theory-Implementation/dp/0128006455/
+https://www.amazon.co.uk/Real-Time-Collision-Detection-Interactive-Technology/dp/1558607323/
+http://www.kevinbeason.com/smallpt/ + http://www.kevinbeason.com/smallpt/smallpt_cline_slides.ppt
